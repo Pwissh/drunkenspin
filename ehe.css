@@ -12,7 +12,7 @@ body {
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
-    animation: spin 5s infinite linear;
+    animation: spin 1.4s infinite linear;
 }
 
 .face {
